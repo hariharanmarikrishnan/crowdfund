@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crowdfund/static/css/main.0c001b9d.chunk.css",
+    "main.js": "/crowdfund/static/js/main.1e768d8b.chunk.js",
+    "main.js.map": "/crowdfund/static/js/main.1e768d8b.chunk.js.map",
+    "runtime-main.js": "/crowdfund/static/js/runtime-main.50fad65a.js",
+    "runtime-main.js.map": "/crowdfund/static/js/runtime-main.50fad65a.js.map",
+    "static/js/2.b73d7eb6.chunk.js": "/crowdfund/static/js/2.b73d7eb6.chunk.js",
+    "static/js/2.b73d7eb6.chunk.js.map": "/crowdfund/static/js/2.b73d7eb6.chunk.js.map",
+    "index.html": "/crowdfund/index.html",
+    "static/css/main.0c001b9d.chunk.css.map": "/crowdfund/static/css/main.0c001b9d.chunk.css.map",
+    "static/js/2.b73d7eb6.chunk.js.LICENSE.txt": "/crowdfund/static/js/2.b73d7eb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50fad65a.js",
+    "static/js/2.b73d7eb6.chunk.js",
+    "static/css/main.0c001b9d.chunk.css",
+    "static/js/main.1e768d8b.chunk.js"
+  ]
+}

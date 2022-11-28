@@ -1,0 +1,65 @@
+.maincontainer{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 2%;
+    margin-right: 6%;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.container1{
+    color: rgb(14, 4, 112);
+    box-shadow:  20px 20px 30px rgb(5, 5, 5);
+    background-color: rgb(229, 240, 240);
+    max-width: 40%;
+    max-height: 70%;
+    font-size: medium;
+    padding: 2%;
+    line-height: 2;
+    border-radius: 10%;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    
+}
+.container1 h1{
+    background: none;
+    text-align: center; 
+    color: rgb(49, 8, 197) ; 
+    text-shadow: 4px 2px 5px rgb(29, 36, 133) ;
+
+}
+.container1 p{
+    background: none;
+    text-align: center;
+}
+.container1 li{
+    background-color: rgb(230, 230, 238);
+    box-shadow:  8px 8px 12px rgb(10, 0, 0); 
+    
+    width: 50%;
+    list-style-type: none;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 25%;
+    color: black;
+    border-radius: 50%;
+}
+#a{
+    color: black;
+    font-weight: 700;
+    font-style: normal;
+}
+#a:hover{
+    color: rgb(126, 36, 21);
+}
+
+img{
+    border-radius: 10%;
+    margin-top: 16%;
+    margin-left: 5%;
+    min-width: 60%;
+    min-height: 60%;
+    box-shadow:  20px 20px 29px rgb(5, 5, 5);  
+    
+}

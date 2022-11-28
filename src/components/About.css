@@ -1,0 +1,49 @@
+.content{
+    
+    margin-top: 5% ;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 15%;
+}
+.content h1{
+   text-align: center;
+   background: none;
+   color: beige;
+   text-shadow: 7px 7px 6px black;
+}
+.content p{
+    text-align: center;
+    font-size: 18px;
+    color: beige;
+    letter-spacing: 5px;
+    line-height: 3;
+    word-spacing: 2px;
+    background: none;
+    font-weight: bold;
+    text-shadow: 7px 7px 6px black;
+
+}
+.links{
+   background-color: black;
+   width: 50% ;
+   margin-left: 45%;
+   margin-top: 5%;
+   font-size: 20px;
+   color: green;
+   
+   
+}
+#ul li{
+    background: none;
+    list-style-type: square;
+    padding: 2%;
+    color: green;
+}
+#ul li a{
+    text-decoration: none;
+    background: none;
+    color: green;
+}
+#ul li a:hover{
+    color:blue;
+}

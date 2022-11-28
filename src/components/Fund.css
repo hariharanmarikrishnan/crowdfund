@@ -1,0 +1,123 @@
+.main{
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-evenly;
+
+} 
+.box1{
+    color: rgb(14, 4, 112);
+    box-shadow:  20px 20px 30px rgb(5, 5, 5);
+    background-color: rgb(229, 240, 240);
+    max-width: 50%;
+    min-width: 30%;
+    max-height: 10%;
+    padding: 2%;
+    line-height: 2;
+    border-radius: 10%;
+    word-spacing: 5px;
+
+    
+
+}
+.box1 button{
+    background: none;
+    width: 70%; 
+    margin-left: 15%; 
+    border: none; 
+    background-color: rgb(241, 250, 250); 
+    color: black; 
+    box-shadow:  8px 8px 12px rgb(10, 0, 0); 
+    border-radius: 50%; 
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+    
+} 
+#login{
+    margin-top: 5%; 
+    padding: 4%;
+}
+#fund1{
+    margin-bottom: 5%; 
+    margin-top: 25%; 
+    padding: 4%;
+    
+}
+.box1 h1{ 
+    background: none;  
+    font-size: small;  
+    font-weight: bold;  
+    margin-top: 10%; 
+    
+}
+.box1 input{
+    background: none; 
+    margin-top: 20%;
+    margin-left: 13%; 
+    width: 70%; 
+    padding: 4%;
+    border-radius: 5%;
+    border: none;
+    box-shadow: inset 3px 3px 4px rgb(34, 33, 33), inset -3px -3px 4px rgb(34, 33, 33);
+}
+.box2{
+    color: rgb(14, 4, 112);
+    box-shadow:  20px 20px 30px rgb(5, 5, 5);
+    background-color: rgb(229, 240, 240);
+    max-width: 70%;
+    min-width: 30%;
+    max-height: 10%;
+    padding: 2%;
+    line-height: 3;
+    border-radius: 10%;
+    word-spacing: 5px;
+    text-align: center;
+    
+
+}
+.box2 button{ 
+    background: none; 
+    width: 70%; 
+    border: none; 
+    background-color: rgb(241, 250, 250); 
+    color: black; 
+    box-shadow:  8px 8px 12px rgb(10, 0, 0); 
+    border-radius: 50%;
+    padding: 4%; 
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+}
+.box2 h1{ 
+    background: none;
+    margin-top: 2%;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 4px 2px 5px rgb(87, 76, 236)
+    
+
+} 
+.box2 h2{
+   background: none;
+}
+.box1 button:hover{
+    color: rgb(9, 7, 114);
+}
+.box2 button:hover{
+    color: rgb(9, 7, 114);
+}
+#bal{
+    margin-top: 5%;
+
+}
+#balance{ 
+    margin-top: 10%;
+
+}
+#withdraw{
+  margin-bottom: 10%; 
+  margin-top: 15%;
+}
