@@ -18,7 +18,7 @@ function App() {
         </ul>
 
       </header>
-      <HashRouter>
+      <HashRouter basename="/Home">
         <Routes>
           <Route index path="/" element={<Home />} />
           <Route  path="/Home" element={<Home />} />
