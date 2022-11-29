@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crowdfund/static/css/main.0c001b9d.chunk.css",
-    "main.js": "/crowdfund/static/js/main.8dad1058.chunk.js",
-    "main.js.map": "/crowdfund/static/js/main.8dad1058.chunk.js.map",
+    "main.js": "/crowdfund/static/js/main.abd32349.chunk.js",
+    "main.js.map": "/crowdfund/static/js/main.abd32349.chunk.js.map",
     "runtime-main.js": "/crowdfund/static/js/runtime-main.50fad65a.js",
     "runtime-main.js.map": "/crowdfund/static/js/runtime-main.50fad65a.js.map",
     "static/js/2.149bac26.chunk.js": "/crowdfund/static/js/2.149bac26.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.50fad65a.js",
     "static/js/2.149bac26.chunk.js",
     "static/css/main.0c001b9d.chunk.css",
-    "static/js/main.8dad1058.chunk.js"
+    "static/js/main.abd32349.chunk.js"
   ]
 }
