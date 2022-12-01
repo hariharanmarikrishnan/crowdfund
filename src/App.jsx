@@ -18,7 +18,7 @@ function App() {
         </ul>
 
       </header>
-      <HashRouter>
+      <HashRouter basename="/crowdfund">
         <Routes>
           <Route index path="/" element={<Home />} />
           <Route  path="/Home" element={<Home />} />
